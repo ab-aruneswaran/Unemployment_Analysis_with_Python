@@ -15,7 +15,7 @@ The dataset used for this analysis is available in the **`unemployment in india.
 
 ## Code
 
-- The `unemployment-analysis.ipynb` file contains the Jupyter Notebook code used for data analysis and visualization.
+- The `Unemployment_Analysis_with_Python.ipynb` file contains the Jupyter Notebook code used for data analysis and visualization.
 
 ## Model Selection
 - Algorithm used for predicting and get accuracy are Logistic Regression
