@@ -1,7 +1,7 @@
 # UNEMPLOYMENT ANALYSIS  
 
-![MasterHead]((https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp)
-)
+![Unemployment Analysis](https://assets.sentinelassam.com/h-upload/2023/05/29/459655-bigstock-unemployment-and-work-loss-pro-437340761.webp)
+
 
 ## Problem Statement
 
@@ -45,7 +45,7 @@ Unemployment Analysis with Python is an informative and actionable exploration o
 
 ### Getting Started
 1. You can access the raw data [here](https://github.com/ab-aruneswaran/Unemployment_Analysis_with_Python/blob/main/dataset/Unemployment%20in%20India.csv) within this repo.
-2. All of the scripts are being kept [here]().
+2. All of the scripts are being kept [here](https://github.com/ab-aruneswaran/Unemployment_Analysis_with_Python/blob/main/UNEMPLOYMENT_ANALYSIS.ipynb).
 
 ## Conclusion
 
